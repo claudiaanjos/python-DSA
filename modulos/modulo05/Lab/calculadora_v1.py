@@ -18,6 +18,10 @@ print("""
 funcao = int(input("Digite a opção desejada: ")) 
 
 while funcao != 0:
+
+    if funcao < 0 or funcao > 4:
+        print("Opção inválida.")
+        break
     
     n1 = int(input("Digite o primeiro número: "))
     n2 = int(input("Digite o segundo número: "))
@@ -30,8 +34,6 @@ while funcao != 0:
         print(f"{n1} x {n2} = {n1 * n2}")
     elif funcao == 4:
         print(f"{n1} / {n2} = {n1 / n2}")
-    else:
-        print("Opção inválida.")
 
     funcao = int(input("Digite a opção desejada: "))
 
