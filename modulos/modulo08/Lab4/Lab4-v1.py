@@ -80,4 +80,3 @@ class Hangman:
 	# Método para não mostrar a letra no board
 		
 	# Método para checar o status do game e imprimir o board na tela
-
