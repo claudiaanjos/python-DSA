@@ -1,4 +1,4 @@
-# Módulo 11
+# Módulo 11: Visualização de Dados com Matplotlib e Seaborn
 
 No módulo 11 vamos construir diversos gráficos usados em Análise e Ciência de Dados via programação Python através de duas poderosas bibliotecas: Matplotlib e Seaborn.
 
