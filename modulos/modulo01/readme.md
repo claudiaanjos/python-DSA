@@ -1,4 +1,4 @@
-# Módulo 01
+# Módulo 01: Introdução
 
 No primeiro módulo foi apresentada a Data Science Academy, as trilhas de apredizagem e os conteúdos do curso.
 
