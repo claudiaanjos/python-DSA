@@ -1,4 +1,4 @@
-# Módulo 8 
+# Módulo 08: Introdução à Programação Orientada a Objetos 
 
 O módulo 8 é  uma  introdução  a  um  importante paradigma de programação de computadores, a Programação Orientada a Objetos.
 
