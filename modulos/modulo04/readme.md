@@ -1,4 +1,4 @@
-# Módulo 4
+# Módulo 04: Variáveis, Tipos e Estruturas de Dados
 
 O módulo 4 traz para você programação em Linguagem Python a partir do ponto mais básico possível, começando do 2 + 2 em Python.
 
