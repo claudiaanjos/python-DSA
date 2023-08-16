@@ -27,7 +27,7 @@ Módulos:
 - Módulo 17: Introdução a Deep Learning com TensorFlow;
 - Módulo 18: Aprendizado por Reforço (Reinforcement Learning);
 - Módulo 19: Projeto 3;
-- Módulo 20: Avaliação;
+- Módulo 20: Avaliação.
 
 
 
