@@ -16,9 +16,9 @@
 
 - Módulo 08: Introdução à Programação Orientada a Objetos;
 
-Módulo 09: Matemática e Manipulação de Matrizes com NumPy;
+- Módulo 09: Matemática e Manipulação de Matrizes com NumPy;
 
-Módulo 10: Manipulação de Dados com Pandas;
+- Módulo 10: Manipulação de Dados com Pandas;
 
 Módulo 11: Visualização de Dados com Matplotlib e Seaborn;
 
