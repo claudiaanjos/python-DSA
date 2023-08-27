@@ -36,6 +36,6 @@
 
 - Módulo 18: Aprendizado por Reforço (Reinforcement Learning);
 
-Módulo 19: Projeto 3;
+- Módulo 19: Projeto 3;
 
 Módulo 20: Avaliação.
