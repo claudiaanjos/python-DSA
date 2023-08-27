@@ -12,7 +12,7 @@
 
 - Módulo 06: Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in;
 
-- Módulo 07: Projeto 1;
+- Módulo 07: Projeto Prático 1;
 
 - Módulo 08: Introdução à Programação Orientada a Objetos;
 
