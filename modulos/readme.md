@@ -10,7 +10,7 @@
 
 - Módulo 05: Loops, Condicionais, Métodos e Funções;
 
-Módulo 06: Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in;
+- Módulo 06: Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in;
 
 Módulo 07: Projeto 1;
 
