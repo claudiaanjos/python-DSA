@@ -6,9 +6,9 @@
 
 - Módulo 03: Introdução à Lógica de Programação;
 
-Módulo 04: Variáveis, Tipos e Estruturas de Dados;
+- Módulo 04: Variáveis, Tipos e Estruturas de Dados;
 
-Módulo 05: Loops, Condicionais, Métodos e Funções;
+- Módulo 05: Loops, Condicionais, Métodos e Funções;
 
 Módulo 06: Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in;
 
