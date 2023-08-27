@@ -24,7 +24,7 @@
 
 - Módulo 12: Análise de Dados com Python e Linguagem SQL;
 
-- Módulo 13: Projeto 2;
+- Módulo 13: Projeto Prático 2;
 
 - Módulo 14: Análise Estatística com Statsmodels;
 
