@@ -20,9 +20,9 @@
 
 - Módulo 10: Manipulação de Dados com Pandas;
 
-Módulo 11: Visualização de Dados com Matplotlib e Seaborn;
+- Módulo 11: Visualização de Dados com Matplotlib e Seaborn;
 
-Módulo 12: Análise de Dados com Python e Linguagem SQL;
+- Módulo 12: Análise de Dados com Python e Linguagem SQL;
 
 Módulo 13: Projeto 2;
 
