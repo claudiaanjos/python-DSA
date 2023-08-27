@@ -1,10 +1,10 @@
 # Módulos
 
-Módulo 01: Introdução;
+- Módulo 01: Introdução;
 
-Módulo 02: Visão Geral, Instalação e ChatGPT;
+- Módulo 02: Visão Geral, Instalação e ChatGPT;
 
-Módulo 03: Introdução à Lógica de Programação;
+- Módulo 03: Introdução à Lógica de Programação;
 
 Módulo 04: Variáveis, Tipos e Estruturas de Dados;
 
