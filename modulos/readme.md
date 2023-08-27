@@ -32,9 +32,9 @@
 
 - Módulo 16: Análises de Séries Temporais com Python;
 
-Módulo 17: Introdução a Deep Learning com TensorFlow;
+- Módulo 17: Introdução a Deep Learning com TensorFlow;
 
-Módulo 18: Aprendizado por Reforço (Reinforcement Learning);
+- Módulo 18: Aprendizado por Reforço (Reinforcement Learning);
 
 Módulo 19: Projeto 3;
 
