@@ -24,9 +24,9 @@
 
 - Módulo 12: Análise de Dados com Python e Linguagem SQL;
 
-Módulo 13: Projeto 2;
+- Módulo 13: Projeto 2;
 
-Módulo 14: Análise Estatística com Statsmodels;
+- Módulo 14: Análise Estatística com Statsmodels;
 
 Módulo 15: Machine Learning com Scikit-Learn;
 
