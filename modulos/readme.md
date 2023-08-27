@@ -28,9 +28,9 @@
 
 - Módulo 14: Análise Estatística com Statsmodels;
 
-Módulo 15: Machine Learning com Scikit-Learn;
+- Módulo 15: Machine Learning com Scikit-Learn;
 
-Módulo 16: Análises de Séries Temporais com Python;
+- Módulo 16: Análises de Séries Temporais com Python;
 
 Módulo 17: Introdução a Deep Learning com TensorFlow;
 
