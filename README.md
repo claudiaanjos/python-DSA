@@ -1,4 +1,8 @@
-# Fundamentos de Linguagem Python Para Análise de Dados e Data Science
+# Python Para Análise de Dados e Data Science
+
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
 
 ###   Descrição
 
